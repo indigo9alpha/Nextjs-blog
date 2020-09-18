@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+
+
+.links {
+  margin: 0 0 0 auto;
+}
+
+.center-item {
+  margin: 0 auto
+}
+
+
+@tailwind utilities;
