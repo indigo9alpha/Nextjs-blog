@@ -10,7 +10,7 @@ export default function About() {
         <link rel="stylesheet" href="" />
       </Head>
       <div className="flex justify-center items-center">
-        <img src="../static/profile.png" className="rounded-full h-1/5 w-1/5" />
+        <img src="/profile.png" className="rounded-full h-1/5 w-1/5" />
       </div>
       <div className="flex justify-center items-center my-8">
         <h1 className="text-5xl">Rei Tanaka</h1>
