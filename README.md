@@ -1,4 +1,4 @@
-Next.js+microCMS+Vercel+TailwindCSSで作ったブログ
+Next.js+microCMS+Vercel+TailwindCSSで作ったJamstackブログ
 
 ![jamstack-blog](https://user-images.githubusercontent.com/69807657/93844054-ebf31a00-fcd6-11ea-968a-d0c122ffa142.png)
 
